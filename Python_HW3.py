@@ -183,4 +183,8 @@ elif target_currency== byn_item :
 else:
     print("Unknow currency")
 
+    if currency_convertor:
+        print(True)
+else:
+        print("Переменная currency_convertor =", item_3)
 
