@@ -20,7 +20,7 @@ print(result_m_exp)
 result_s_root= item_1**(0.5)
 print(result_s_root)
 
-result_m_s_root=math.sqrt(10)
+result_m_s_root=math.sqrt(item_2)
 print(result_m_s_root)
 
 result_mp_s_root= math.pow(item_1, 0.5)
