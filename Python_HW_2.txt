@@ -44,7 +44,7 @@ result_s_root= item_1**(0.5)
 print(result_s_root)
 
  15. Создать переменную result_m_s_root в которой вы найдёте квадратный корень любой из переменной item используя библиотеку math
-result_m_s_root=math.sqrt(10)
+result_m_s_root=math.sqrt(item_2)
 
  16. Вывести result_m_s_root в консоль
 print(result_m_s_root)
