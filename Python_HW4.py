@@ -64,6 +64,7 @@ while run:
         print("STOP", count)
         break
 
+        
 # Цилы For
 # Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от for_count  до range_count
 # Тело цикла:
@@ -90,6 +91,7 @@ for item in range(0, 30):
         print("Item< ", item)
     if item>= 27:
         print("Item>= ", item)
+        
 
 # Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от 0 до range_count +1
 # Тело цикла:
